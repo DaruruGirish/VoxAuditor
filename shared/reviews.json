@@ -1,0 +1,2302 @@
+[
+  {
+    "review_id": "REV-1150",
+    "product": "Ceiling Fan",
+    "model": "Havells Efficiencia Neo energy saving",
+    "rating": 4,
+    "date": "2026-07-11",
+    "reviewer": "Vikram Malhotra",
+    "text": "very stylish fan, looks premium in my living room.  absolute waste of money.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1062",
+    "product": "Space Heater",
+    "model": "Havells Solace 1500W Oil Filled",
+    "rating": 4,
+    "date": "2026-07-09",
+    "reviewer": "Pooja Trivedi",
+    "text": "buying this was a mistake.  heats up the room very quickly. love the rotating base.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1167",
+    "product": "Air Purifier",
+    "model": "Havells Studio Meditate",
+    "rating": 4,
+    "date": "2026-07-08",
+    "reviewer": "Devika Nair",
+    "text": "essential for winters. clears Delhi pollution and smog effortlessly.  hope customer care calls me.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1082",
+    "product": "Ceiling Fan",
+    "model": "Havells Efficiencia Neo energy saving",
+    "rating": 3,
+    "date": "2026-07-07",
+    "reviewer": "Ananya Sen",
+    "text": "havells is a good brand but  ticking sound coming from the motor canopy. very distracting.",
+    "category_tag": "Clicking Sound"
+  },
+  {
+    "review_id": "REV-1063",
+    "product": "Space Heater",
+    "model": "Havells Solace 1500W Oil Filled",
+    "rating": 5,
+    "date": "2026-07-03",
+    "reviewer": "Sneha Iyer",
+    "text": "so,  heats up the room very quickly. love the rotating base.  hope customer care calls me.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1187",
+    "product": "Air Purifier",
+    "model": "Havells Studio Meditate",
+    "rating": 4,
+    "date": "2026-07-02",
+    "reviewer": "Aarav Sharma",
+    "text": "sleek design, looks like a premium speaker. auto mode works great.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1205",
+    "product": "Air Purifier",
+    "model": "Havells Studio Meditate",
+    "rating": 2,
+    "date": "2026-07-01",
+    "reviewer": "Neha Verma",
+    "text": "reset button for the filter light does not work. sensor issue.  absolute waste of money.",
+    "category_tag": "Filter Light Bug"
+  },
+  {
+    "review_id": "REV-1156",
+    "product": "Ceiling Fan",
+    "model": "Havells Efficiencia Neo energy saving",
+    "rating": 3,
+    "date": "2026-06-30",
+    "reviewer": "Sneha Iyer",
+    "text": "makes an annoying clicking noice at speed 3 and 4. click click click all night.  hope customer care calls me.",
+    "category_tag": "Clicking Sound"
+  },
+  {
+    "review_id": "REV-1138",
+    "product": "Ceiling Fan",
+    "model": "Havells Stealth Air Premium",
+    "rating": 4,
+    "date": "2026-06-27",
+    "reviewer": "Aditya Patel",
+    "text": "easy to install and works perfectly with the smart remote.  \ud83d\udc4d",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1145",
+    "product": "Ceiling Fan",
+    "model": "Havells Stealth Air Premium",
+    "rating": 3,
+    "date": "2026-06-27",
+    "reviewer": "Vikram Malhotra",
+    "text": "honestly,  shakes a lot on full speed, makes creaking sounds from the ceiling.  absolute waste of money.",
+    "category_tag": "Wobbling Regulator"
+  },
+  {
+    "review_id": "REV-1162",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-40",
+    "rating": 4,
+    "date": "2026-06-27",
+    "reviewer": "Aarav Sharma",
+    "text": "havells is a good brand but  great air purifier. filter is easy to change and value for money.  hope customer care calls me.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1102",
+    "product": "Ceiling Fan",
+    "model": "Havells Stealth Air Premium",
+    "rating": 5,
+    "date": "2026-06-26",
+    "reviewer": "Siddharth Reddy",
+    "text": "very quiet motor and modern aesthetic.  buy something else.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1218",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-20",
+    "rating": 4,
+    "date": "2026-06-24",
+    "reviewer": "Kabir Gupta",
+    "text": "actually  essential for winters. clears Delhi pollution and smog effortlessly.  highly recommended.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1072",
+    "product": "Space Heater",
+    "model": "Havells Calido PTC 2000W",
+    "rating": 1,
+    "date": "2026-06-18",
+    "reviewer": "Devika Nair",
+    "text": "i usually don't write reviews but  smell of burning plastic and found the power switch was completely melted.  \ud83d\udc4e",
+    "category_tag": "Switch Melting"
+  },
+  {
+    "review_id": "REV-1074",
+    "product": "Space Heater",
+    "model": "Havells Calido PTC 2000W",
+    "rating": 5,
+    "date": "2026-06-18",
+    "reviewer": "Tanvi Bhatia",
+    "text": "buying this was a mistake.  compact and powerful. keeps my bedroom warm all night.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1086",
+    "product": "Ceiling Fan",
+    "model": "Havells Efficiencia Neo energy saving",
+    "rating": 5,
+    "date": "2026-06-17",
+    "reviewer": "Arjun Mehta",
+    "text": "writing this after 3 weeks of usage.  easy to install and works perfectly with the smart remote.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1113",
+    "product": "Ceiling Fan",
+    "model": "Havells Stealth Air Premium",
+    "rating": 3,
+    "date": "2026-06-17",
+    "reviewer": "Neha Verma",
+    "text": "so,  constant clicking noise when regulator is set to medium. ...",
+    "category_tag": "Clicking Sound"
+  },
+  {
+    "review_id": "REV-1139",
+    "product": "Ceiling Fan",
+    "model": "Havells Stealth Air Premium",
+    "rating": 3,
+    "date": "2026-06-16",
+    "reviewer": "Arjun Mehta",
+    "text": "havells is a good brand but  perfect fan but has a rhythmic clicking sound that is frustrating.",
+    "category_tag": "Clicking Sound"
+  },
+  {
+    "review_id": "REV-1019",
+    "product": "Space Heater",
+    "model": "Havells OFR 11 Wave",
+    "rating": 1,
+    "date": "2026-06-14",
+    "reviewer": "Ananya Sen",
+    "text": "very disappointed!  smell of burning plastic and found the power swich was completely melted.  pros: looks good. cons: fails after some time.",
+    "category_tag": "Switch Melting"
+  },
+  {
+    "review_id": "REV-1181",
+    "product": "Air Purifier",
+    "model": "Havells Studio Meditate",
+    "rating": 5,
+    "date": "2026-06-14",
+    "reviewer": "Sneha Iyer",
+    "text": "so,  clears smoke and cooking odors in minutes. sleep mode is dead silent.  highly recommended.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1197",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-20",
+    "rating": 3,
+    "date": "2026-06-14",
+    "reviewer": "Sneha Iyer",
+    "text": "reset button for the filter light does not work. sensor issue.",
+    "category_tag": "Filter Light Bug"
+  },
+  {
+    "review_id": "REV-1090",
+    "product": "Ceiling Fan",
+    "model": "Havells Florence 1200mm",
+    "rating": 5,
+    "date": "2026-06-12",
+    "reviewer": "Pranav Kulkarni",
+    "text": "very quiet motor and modern aesthetic.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1108",
+    "product": "Ceiling Fan",
+    "model": "Havells Efficiencia Neo energy saving",
+    "rating": 5,
+    "date": "2026-06-10",
+    "reviewer": "Aditya Patel",
+    "text": "buying this was a mistake.  very stylish fan, looks premium in my living room.  hope customer care calls me.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1175",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-40",
+    "rating": 3,
+    "date": "2026-06-07",
+    "reviewer": "Sneha Iyer",
+    "text": "reset button for the filtr light does not work. sensor issue.  buy something else.",
+    "category_tag": "Filter Light Bug"
+  },
+  {
+    "review_id": "REV-1188",
+    "product": "Air Purifier",
+    "model": "Havells Studio Meditate",
+    "rating": 2,
+    "date": "2026-06-02",
+    "reviewer": "Divya Pillai",
+    "text": "filtr light stays solid red even after putting in a brand new genuine Havells filtr. ...",
+    "category_tag": "Filter Light Bug"
+  },
+  {
+    "review_id": "REV-1133",
+    "product": "Ceiling Fan",
+    "model": "Havells Efficiencia Neo energy saving",
+    "rating": 5,
+    "date": "2026-05-30",
+    "reviewer": "Pranav Kulkarni",
+    "text": "hey,  breeze is powerful. Havells quality shines through.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1033",
+    "product": "Space Heater",
+    "model": "Havells OFR 11 Wave",
+    "rating": 1,
+    "date": "2026-05-28",
+    "reviewer": "Arjun Mehta",
+    "text": "smell of burning plastic and found the power swich was completely melted.",
+    "category_tag": "Switch Melting"
+  },
+  {
+    "review_id": "REV-1041",
+    "product": "Space Heater",
+    "model": "Havells OFR 11 Wave",
+    "rating": 5,
+    "date": "2026-05-26",
+    "reviewer": "Neha Verma",
+    "text": "so,  great safety features, it shuts off when tipped over.  \ud83d\udc4e",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1061",
+    "product": "Space Heater",
+    "model": "Havells OFR 11 Wave",
+    "rating": 3,
+    "date": "2026-05-23",
+    "reviewer": "Siddharth Reddy",
+    "text": "writing this after 3 weeks of usage.  heating works but there is a constant rattling sound from the blower.  highly recommended.",
+    "category_tag": "Blower Grinding Noise"
+  },
+  {
+    "review_id": "REV-1104",
+    "product": "Ceiling Fan",
+    "model": "Havells Florence 1200mm",
+    "rating": 5,
+    "date": "2026-05-23",
+    "reviewer": "Amit Singh",
+    "text": "breeze is powerful. Havells quality shines through.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1056",
+    "product": "Space Heater",
+    "model": "Havells OFR 11 Wave",
+    "rating": 1,
+    "date": "2026-05-21",
+    "reviewer": "Ananya Sen",
+    "text": "switch got extremely hot and then melted down. cheap quality toggle.",
+    "category_tag": "Switch Melting"
+  },
+  {
+    "review_id": "REV-1206",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-20",
+    "rating": 2,
+    "date": "2026-05-21",
+    "reviewer": "Tanvi Bhatia",
+    "text": "solid red filter indicator light won't turn off. air flow is fine though.",
+    "category_tag": "Filter Light Bug"
+  },
+  {
+    "review_id": "REV-1115",
+    "product": "Ceiling Fan",
+    "model": "Havells Stealth Air Premium",
+    "rating": 3,
+    "date": "2026-05-16",
+    "reviewer": "Neha Verma",
+    "text": "havells is a good brand but  fan wobbles like crazy at speed 5. looks like it will fall down.  \ud83d\udc4d",
+    "category_tag": "Wobbling Regulator"
+  },
+  {
+    "review_id": "REV-1143",
+    "product": "Ceiling Fan",
+    "model": "Havells Efficiencia Neo energy saving",
+    "rating": 5,
+    "date": "2026-05-16",
+    "reviewer": "Arjun Mehta",
+    "text": "havells is a good brand but  absolutely silent and high air delivery. energy saving is a plus.  not happy at all.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1024",
+    "product": "Space Heater",
+    "model": "Havells Calido PTC 2000W",
+    "rating": 1,
+    "date": "2026-05-15",
+    "reviewer": "Kabir Gupta",
+    "text": "havells is a good brand but  switch button burnt and melted within a month. had to return it.",
+    "category_tag": "Switch Melting"
+  },
+  {
+    "review_id": "REV-1140",
+    "product": "Ceiling Fan",
+    "model": "Havells Stealth Air Premium",
+    "rating": 3,
+    "date": "2026-05-15",
+    "reviewer": "Amit Singh",
+    "text": "Super happy!  shakes and wobbles. mounting rod is not stable.",
+    "category_tag": "Wobbling Regulator"
+  },
+  {
+    "review_id": "REV-1209",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-20",
+    "rating": 4,
+    "date": "2026-05-09",
+    "reviewer": "Amit Singh",
+    "text": "great air purifier. filter is easy to change and value for money.  \ud83d\udc4d",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1004",
+    "product": "Space Heater",
+    "model": "Havells Calido PTC 2000W",
+    "rating": 4,
+    "date": "2026-05-06",
+    "reviewer": "Amit Singh",
+    "text": "buying this was a mistake.  great safety features, it shuts off when tipped over.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1050",
+    "product": "Space Heater",
+    "model": "Havells Solace 1500W Oil Filled",
+    "rating": 5,
+    "date": "2026-05-05",
+    "reviewer": "Sneha Iyer",
+    "text": "very disappointed!  great safety features, it shuts off when tipped over.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1128",
+    "product": "Ceiling Fan",
+    "model": "Havells Efficiencia Neo energy saving",
+    "rating": 5,
+    "date": "2026-05-04",
+    "reviewer": "Tanvi Bhatia",
+    "text": "Super happy!  very stylish fan, looks premium in my living room.  \ud83d\udc4e",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1198",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-40",
+    "rating": 3,
+    "date": "2026-05-04",
+    "reviewer": "Pooja Trivedi",
+    "text": "filtr light stays solid red even after putting in a brand new genuine Havells filtr.",
+    "category_tag": "Filter Light Bug"
+  },
+  {
+    "review_id": "REV-1058",
+    "product": "Space Heater",
+    "model": "Havells Calido PTC 2000W",
+    "rating": 3,
+    "date": "2026-04-30",
+    "reviewer": "Rohan Das",
+    "text": "blower fan makes a loud grinding noise, cannot sleep with this on.  buy something else.",
+    "category_tag": "Blower Grinding Noise"
+  },
+  {
+    "review_id": "REV-1008",
+    "product": "Space Heater",
+    "model": "Havells OFR 11 Wave",
+    "rating": 3,
+    "date": "2026-04-28",
+    "reviewer": "Meera Rao",
+    "text": "vibrates a lot and makes a squeaking sound at high speed.  absolute waste of money.",
+    "category_tag": "Blower Grinding Noise"
+  },
+  {
+    "review_id": "REV-1127",
+    "product": "Ceiling Fan",
+    "model": "Havells Stealth Air Premium",
+    "rating": 2,
+    "date": "2026-04-27",
+    "reviewer": "Rohan Das",
+    "text": "so,  fan wobbles like crazy at speed 5. looks like it will fall down.",
+    "category_tag": "Wobbling Regulator"
+  },
+  {
+    "review_id": "REV-1210",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-20",
+    "rating": 5,
+    "date": "2026-04-27",
+    "reviewer": "Neha Verma",
+    "text": "great air purifier. filter is easy to change and value for money.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1010",
+    "product": "Space Heater",
+    "model": "Havells Calido PTC 2000W",
+    "rating": 2,
+    "date": "2026-04-24",
+    "reviewer": "Ananya Sen",
+    "text": "fan inside rattles and clicks. very annoying background noise.  absolute waste of money.",
+    "category_tag": "Blower Grinding Noise"
+  },
+  {
+    "review_id": "REV-1172",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-20",
+    "rating": 4,
+    "date": "2026-04-23",
+    "reviewer": "Arjun Mehta",
+    "text": "essential for winters. clears Delhi pollution and smog effortlessly.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1183",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-20",
+    "rating": 2,
+    "date": "2026-04-22",
+    "reviewer": "Divya Pillai",
+    "text": "filter light stays solid red even after putting in a brand new genuine Havells filter.  not happy at all.",
+    "category_tag": "Filter Light Bug"
+  },
+  {
+    "review_id": "REV-1051",
+    "product": "Space Heater",
+    "model": "Havells OFR 11 Wave",
+    "rating": 2,
+    "date": "2026-04-20",
+    "reviewer": "Kabir Gupta",
+    "text": "honestly,  noisy blower! sounds like something is loose inside.  buy something else.",
+    "category_tag": "Blower Grinding Noise"
+  },
+  {
+    "review_id": "REV-1160",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-20",
+    "rating": 5,
+    "date": "2026-04-20",
+    "reviewer": "Pranav Kulkarni",
+    "text": "very disappointed!  sleek design, looks like a premium speaker. auto mode works great.  buy something else.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1191",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-20",
+    "rating": 3,
+    "date": "2026-04-20",
+    "reviewer": "Meera Rao",
+    "text": "filtr light stays solid red even after putting in a brand new genuine Havells filtr.",
+    "category_tag": "Filter Light Bug"
+  },
+  {
+    "review_id": "REV-1023",
+    "product": "Space Heater",
+    "model": "Havells Calido PTC 2000W",
+    "rating": 2,
+    "date": "2026-04-18",
+    "reviewer": "Pranav Kulkarni",
+    "text": "havells is a good brand but  vibrates a lot and makes a squeaking sound at high speed.  \ud83d\udc4d",
+    "category_tag": "Blower Grinding Noise"
+  },
+  {
+    "review_id": "REV-1015",
+    "product": "Space Heater",
+    "model": "Havells OFR 11 Wave",
+    "rating": 3,
+    "date": "2026-04-17",
+    "reviewer": "Ishaan Joshi",
+    "text": "fan inside rattles and clicks. very annoying background noise.",
+    "category_tag": "Blower Grinding Noise"
+  },
+  {
+    "review_id": "REV-1039",
+    "product": "Space Heater",
+    "model": "Havells OFR 11 Wave",
+    "rating": 5,
+    "date": "2026-04-16",
+    "reviewer": "Ishaan Joshi",
+    "text": "hey,  great safety features, it shuts off when tipped over.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1214",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-20",
+    "rating": 3,
+    "date": "2026-04-16",
+    "reviewer": "Rahul Bose",
+    "text": "buying this was a mistake.  changed the filter but the red replacement light won't reset or turn off.  \ud83d\udc4d",
+    "category_tag": "Filter Light Bug"
+  },
+  {
+    "review_id": "REV-1014",
+    "product": "Space Heater",
+    "model": "Havells Calido PTC 2000W",
+    "rating": 4,
+    "date": "2026-04-13",
+    "reviewer": "Arjun Mehta",
+    "text": "excellent heating. remote control is very handy.  \ud83d\udc4e",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1151",
+    "product": "Ceiling Fan",
+    "model": "Havells Efficiencia Neo energy saving",
+    "rating": 5,
+    "date": "2026-04-11",
+    "reviewer": "Ananya Sen",
+    "text": "absolutely silent and high air delivery. energy saving is a plus.  hope customer care calls me.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1089",
+    "product": "Ceiling Fan",
+    "model": "Havells Efficiencia Neo energy saving",
+    "rating": 1,
+    "date": "2026-04-10",
+    "reviewer": "Aarav Sharma",
+    "text": "shakes and wobbles. mounting rod is not stable.  highly recommended.",
+    "category_tag": "Wobbling Regulator"
+  },
+  {
+    "review_id": "REV-1112",
+    "product": "Ceiling Fan",
+    "model": "Havells Florence 1200mm",
+    "rating": 4,
+    "date": "2026-04-10",
+    "reviewer": "Amit Singh",
+    "text": "very disappointed!  very quiet motor and modern aesthetic.  hope customer care calls me.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1141",
+    "product": "Ceiling Fan",
+    "model": "Havells Florence 1200mm",
+    "rating": 5,
+    "date": "2026-04-10",
+    "reviewer": "Tanvi Bhatia",
+    "text": "very stylish fan, looks premium in my living room.  hope customer care calls me.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1154",
+    "product": "Ceiling Fan",
+    "model": "Havells Stealth Air Premium",
+    "rating": 3,
+    "date": "2026-04-10",
+    "reviewer": "Rahul Bose",
+    "text": "constant clicking noise when regulator is set to medium.  buy something else.",
+    "category_tag": "Clicking Sound"
+  },
+  {
+    "review_id": "REV-1066",
+    "product": "Space Heater",
+    "model": "Havells OFR 11 Wave",
+    "rating": 5,
+    "date": "2026-04-09",
+    "reviewer": "Neha Verma",
+    "text": "compact and powerful. keeps my bedroom warm all night.  absolute waste of money.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1025",
+    "product": "Space Heater",
+    "model": "Havells Solace 1500W Oil Filled",
+    "rating": 5,
+    "date": "2026-04-08",
+    "reviewer": "Meera Rao",
+    "text": "very disappointed!  compact and powerful. keeps my bedroom warm all night.  highly recommended.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1038",
+    "product": "Space Heater",
+    "model": "Havells Calido PTC 2000W",
+    "rating": 5,
+    "date": "2026-04-02",
+    "reviewer": "Siddharth Reddy",
+    "text": "compact and powerful. keeps my bedroom warm all night.  buy something else.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1040",
+    "product": "Space Heater",
+    "model": "Havells Solace 1500W Oil Filled",
+    "rating": 4,
+    "date": "2026-03-31",
+    "reviewer": "Tanvi Bhatia",
+    "text": "honestly,  excellent heating. remote control is very handy.  buy something else.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1208",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-40",
+    "rating": 5,
+    "date": "2026-03-30",
+    "reviewer": "Rajesh Kapoor",
+    "text": "digital AQI display is very accurate. notice a huge difference in my allergies.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1076",
+    "product": "Space Heater",
+    "model": "Havells OFR 11 Wave",
+    "rating": 5,
+    "date": "2026-03-28",
+    "reviewer": "Sneha Iyer",
+    "text": "havells is a good brand but  heats up the room very quickly. love the rotating base.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1101",
+    "product": "Ceiling Fan",
+    "model": "Havells Efficiencia Neo energy saving",
+    "rating": 2,
+    "date": "2026-03-28",
+    "reviewer": "Devika Nair",
+    "text": "writing this after 3 weeks of usage.  perfect fan but has a rhythmic clicking sound that is frustrating. ...",
+    "category_tag": "Clicking Sound"
+  },
+  {
+    "review_id": "REV-1094",
+    "product": "Ceiling Fan",
+    "model": "Havells Stealth Air Premium",
+    "rating": 5,
+    "date": "2026-03-26",
+    "reviewer": "Arjun Mehta",
+    "text": "honestly,  breeze is powerful. Havells quality shines through.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1226",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-20",
+    "rating": 2,
+    "date": "2026-03-26",
+    "reviewer": "Ananya Sen",
+    "text": "reset button for the filtr light does not work. sensor issue.  buy something else.",
+    "category_tag": "Filter Light Bug"
+  },
+  {
+    "review_id": "REV-1168",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-40",
+    "rating": 2,
+    "date": "2026-03-24",
+    "reviewer": "Rohan Das",
+    "text": "red light for filtr change is stuck. reset instructions in manual don't work.",
+    "category_tag": "Filter Light Bug"
+  },
+  {
+    "review_id": "REV-1068",
+    "product": "Space Heater",
+    "model": "Havells Calido PTC 2000W",
+    "rating": 5,
+    "date": "2026-03-23",
+    "reviewer": "Aarav Sharma",
+    "text": "good build quality and silent operation. worth the money.  absolute waste of money.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1091",
+    "product": "Ceiling Fan",
+    "model": "Havells Stealth Air Premium",
+    "rating": 5,
+    "date": "2026-03-21",
+    "reviewer": "Aditya Patel",
+    "text": "absolutely silent and high air delivery. energy saving is a plus.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1169",
+    "product": "Air Purifier",
+    "model": "Havells Studio Meditate",
+    "rating": 3,
+    "date": "2026-03-17",
+    "reviewer": "Tanvi Bhatia",
+    "text": "filter light stays solid red even after putting in a brand new genuine Havells filter.",
+    "category_tag": "Filter Light Bug"
+  },
+  {
+    "review_id": "REV-1069",
+    "product": "Space Heater",
+    "model": "Havells Calido PTC 2000W",
+    "rating": 2,
+    "date": "2026-03-16",
+    "reviewer": "Amit Singh",
+    "text": "hey,  heating works but there is a constant rattling sound from the blower.",
+    "category_tag": "Blower Grinding Noise"
+  },
+  {
+    "review_id": "REV-1047",
+    "product": "Space Heater",
+    "model": "Havells Solace 1500W Oil Filled",
+    "rating": 5,
+    "date": "2026-03-15",
+    "reviewer": "Meera Rao",
+    "text": "great safety features, it shuts off when tipped over.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1136",
+    "product": "Ceiling Fan",
+    "model": "Havells Stealth Air Premium",
+    "rating": 3,
+    "date": "2026-03-15",
+    "reviewer": "Arjun Mehta",
+    "text": "makes an annoying clicking noice at speed 3 and 4. click click click all night.",
+    "category_tag": "Clicking Sound"
+  },
+  {
+    "review_id": "REV-1064",
+    "product": "Space Heater",
+    "model": "Havells OFR 11 Wave",
+    "rating": 5,
+    "date": "2026-03-14",
+    "reviewer": "Rahul Bose",
+    "text": "i usually don't write reviews but  great safety features, it shuts off when tipped over.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1084",
+    "product": "Ceiling Fan",
+    "model": "Havells Florence 1200mm",
+    "rating": 4,
+    "date": "2026-03-13",
+    "reviewer": "Vikram Malhotra",
+    "text": "breeze is powerful. Havells quality shines through.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1060",
+    "product": "Space Heater",
+    "model": "Havells Solace 1500W Oil Filled",
+    "rating": 5,
+    "date": "2026-03-10",
+    "reviewer": "Rajesh Kapoor",
+    "text": "buying this was a mistake.  heats up the room very quickly. love the rotating base.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1020",
+    "product": "Space Heater",
+    "model": "Havells Calido PTC 2000W",
+    "rating": 2,
+    "date": "2026-03-08",
+    "reviewer": "Amit Singh",
+    "text": "i usually don't write reviews but  blower fan makes a loud grinding noise, cannot sleep with this on.",
+    "category_tag": "Blower Grinding Noise"
+  },
+  {
+    "review_id": "REV-1035",
+    "product": "Space Heater",
+    "model": "Havells Solace 1500W Oil Filled",
+    "rating": 4,
+    "date": "2026-03-07",
+    "reviewer": "Neha Verma",
+    "text": "compact and powerful. keeps my bedroom warm all night.  hope customer care calls me.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1152",
+    "product": "Ceiling Fan",
+    "model": "Havells Florence 1200mm",
+    "rating": 4,
+    "date": "2026-03-06",
+    "reviewer": "Ananya Sen",
+    "text": "breeze is powerful. Havells quality shines through.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1044",
+    "product": "Space Heater",
+    "model": "Havells Solace 1500W Oil Filled",
+    "rating": 5,
+    "date": "2026-03-05",
+    "reviewer": "Rajesh Kapoor",
+    "text": "Super happy!  good build quality and silent operation. worth the money. !!",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1005",
+    "product": "Space Heater",
+    "model": "Havells OFR 11 Wave",
+    "rating": 2,
+    "date": "2026-03-04",
+    "reviewer": "Rohan Das",
+    "text": "very disappointed!  fan inside rattles and clicks. very annoying background noice.",
+    "category_tag": "Blower Grinding Noise"
+  },
+  {
+    "review_id": "REV-1022",
+    "product": "Space Heater",
+    "model": "Havells Solace 1500W Oil Filled",
+    "rating": 5,
+    "date": "2026-03-04",
+    "reviewer": "Tanvi Bhatia",
+    "text": "excellent heating. remote control is very handy.  highly recommended.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1103",
+    "product": "Ceiling Fan",
+    "model": "Havells Efficiencia Neo energy saving",
+    "rating": 2,
+    "date": "2026-03-04",
+    "reviewer": "Meera Rao",
+    "text": "makes an annoying clicking noise at speed 3 and 4. click click click all night.  \ud83d\udc4e",
+    "category_tag": "Clicking Sound"
+  },
+  {
+    "review_id": "REV-1116",
+    "product": "Ceiling Fan",
+    "model": "Havells Florence 1200mm",
+    "rating": 2,
+    "date": "2026-03-03",
+    "reviewer": "Tanvi Bhatia",
+    "text": "writing this after 3 weeks of usage.  constant clicking noise when regulator is set to medium.  not happy at all.",
+    "category_tag": "Clicking Sound"
+  },
+  {
+    "review_id": "REV-1161",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-40",
+    "rating": 2,
+    "date": "2026-02-28",
+    "reviewer": "Rohan Das",
+    "text": "reset button for the filter light does not work. sensor issue.  buy something else.",
+    "category_tag": "Filter Light Bug"
+  },
+  {
+    "review_id": "REV-1144",
+    "product": "Ceiling Fan",
+    "model": "Havells Stealth Air Premium",
+    "rating": 3,
+    "date": "2026-02-27",
+    "reviewer": "Neha Verma",
+    "text": "shakes and wobbles. mounting rod is not stable.  pros: looks good. cons: fails after some time.",
+    "category_tag": "Wobbling Regulator"
+  },
+  {
+    "review_id": "REV-1166",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-40",
+    "rating": 5,
+    "date": "2026-02-27",
+    "reviewer": "Pranav Kulkarni",
+    "text": "clears smoke and cooking odors in minutes. sleep mode is dead silent.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1042",
+    "product": "Space Heater",
+    "model": "Havells Solace 1500W Oil Filled",
+    "rating": 2,
+    "date": "2026-02-26",
+    "reviewer": "Ishaan Joshi",
+    "text": "the switch melted after 2 hours of use, very dangerous!",
+    "category_tag": "Switch Melting"
+  },
+  {
+    "review_id": "REV-1078",
+    "product": "Space Heater",
+    "model": "Havells Solace 1500W Oil Filled",
+    "rating": 2,
+    "date": "2026-02-26",
+    "reviewer": "Devika Nair",
+    "text": "noisy blower! sounds like something is loose inside.  buy something else.",
+    "category_tag": "Blower Grinding Noise"
+  },
+  {
+    "review_id": "REV-1124",
+    "product": "Ceiling Fan",
+    "model": "Havells Stealth Air Premium",
+    "rating": 1,
+    "date": "2026-02-26",
+    "reviewer": "Tanvi Bhatia",
+    "text": "writing this after 3 weeks of usage.  excessive vibration at high speed, regulator doesn't seem to control it well.",
+    "category_tag": "Wobbling Regulator"
+  },
+  {
+    "review_id": "REV-1071",
+    "product": "Space Heater",
+    "model": "Havells Solace 1500W Oil Filled",
+    "rating": 4,
+    "date": "2026-02-19",
+    "reviewer": "Rajesh Kapoor",
+    "text": "excellent heating. remote control is very handy.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1189",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-40",
+    "rating": 3,
+    "date": "2026-02-14",
+    "reviewer": "Tanvi Bhatia",
+    "text": "solid red filter indicator light won't turn off. air flow is fine though.",
+    "category_tag": "Filter Light Bug"
+  },
+  {
+    "review_id": "REV-1049",
+    "product": "Space Heater",
+    "model": "Havells Solace 1500W Oil Filled",
+    "rating": 2,
+    "date": "2026-02-08",
+    "reviewer": "Pooja Trivedi",
+    "text": "so,  dangerous product! the main button melted and fused. fire hazard!",
+    "category_tag": "Switch Melting"
+  },
+  {
+    "review_id": "REV-1122",
+    "product": "Ceiling Fan",
+    "model": "Havells Florence 1200mm",
+    "rating": 4,
+    "date": "2026-02-05",
+    "reviewer": "Arjun Mehta",
+    "text": "very stylish fan, looks premium in my living room.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1177",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-40",
+    "rating": 5,
+    "date": "2026-02-04",
+    "reviewer": "Rohan Das",
+    "text": "clears smoke and cooking odors in minutes. sleep mode is dead silent. ...",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1164",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-20",
+    "rating": 3,
+    "date": "2026-02-03",
+    "reviewer": "Meera Rao",
+    "text": "hey,  filter light stays solid red even after putting in a brand new genuine Havells filter.",
+    "category_tag": "Filter Light Bug"
+  },
+  {
+    "review_id": "REV-1199",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-20",
+    "rating": 4,
+    "date": "2026-02-03",
+    "reviewer": "Devika Nair",
+    "text": "sleek design, looks like a premium speaker. auto mode works great.  \ud83d\udc4e",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1180",
+    "product": "Air Purifier",
+    "model": "Havells Studio Meditate",
+    "rating": 3,
+    "date": "2026-02-01",
+    "reviewer": "Vikram Malhotra",
+    "text": "solid red filter indicator light won't turn off. air flow is fine though.  highly recommended.",
+    "category_tag": "Filter Light Bug"
+  },
+  {
+    "review_id": "REV-1088",
+    "product": "Ceiling Fan",
+    "model": "Havells Stealth Air Premium",
+    "rating": 5,
+    "date": "2026-01-28",
+    "reviewer": "Arjun Mehta",
+    "text": "so,  absolutely silent and high air delivery. energy saving is a plus.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1163",
+    "product": "Air Purifier",
+    "model": "Havells Studio Meditate",
+    "rating": 2,
+    "date": "2026-01-27",
+    "reviewer": "Aditya Patel",
+    "text": "purifier works but emits a plastic/ozone-like smell on turbo mode. ...",
+    "category_tag": "Chemical Odor"
+  },
+  {
+    "review_id": "REV-1213",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-20",
+    "rating": 4,
+    "date": "2026-01-24",
+    "reviewer": "Amit Singh",
+    "text": "essential for winters. clears Delhi pollution and smog effortlessly.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1223",
+    "product": "Air Purifier",
+    "model": "Havells Studio Meditate",
+    "rating": 2,
+    "date": "2026-01-24",
+    "reviewer": "Divya Pillai",
+    "text": "filter light stays solid red even after putting in a brand new genuine Havells filter.  not happy at all.",
+    "category_tag": "Filter Light Bug"
+  },
+  {
+    "review_id": "REV-1057",
+    "product": "Space Heater",
+    "model": "Havells Solace 1500W Oil Filled",
+    "rating": 5,
+    "date": "2026-01-23",
+    "reviewer": "Ishaan Joshi",
+    "text": "buying this was a mistake.  heats up the room very quickly. love the rotating base.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1012",
+    "product": "Space Heater",
+    "model": "Havells Calido PTC 2000W",
+    "rating": 2,
+    "date": "2026-01-22",
+    "reviewer": "Pooja Trivedi",
+    "text": "switch button burnt and melted within a month. had to return it. ...",
+    "category_tag": "Switch Melting"
+  },
+  {
+    "review_id": "REV-1182",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-40",
+    "rating": 5,
+    "date": "2026-01-18",
+    "reviewer": "Siddharth Reddy",
+    "text": "i usually don't write reviews but  digital AQI display is very accurate. notice a huge difference in my allergies.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1059",
+    "product": "Space Heater",
+    "model": "Havells OFR 11 Wave",
+    "rating": 3,
+    "date": "2026-01-16",
+    "reviewer": "Vikram Malhotra",
+    "text": "heating works but there is a constant rattling sound from the blower.",
+    "category_tag": "Blower Grinding Noise"
+  },
+  {
+    "review_id": "REV-1129",
+    "product": "Ceiling Fan",
+    "model": "Havells Florence 1200mm",
+    "rating": 5,
+    "date": "2026-01-16",
+    "reviewer": "Tanvi Bhatia",
+    "text": "absolutely silent and high air delivery. energy saving is a plus.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1134",
+    "product": "Ceiling Fan",
+    "model": "Havells Stealth Air Premium",
+    "rating": 4,
+    "date": "2026-01-11",
+    "reviewer": "Amit Singh",
+    "text": "writing this after 3 weeks of usage.  very stylish fan, looks premium in my living room.  highly recommended.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1131",
+    "product": "Ceiling Fan",
+    "model": "Havells Stealth Air Premium",
+    "rating": 4,
+    "date": "2026-01-10",
+    "reviewer": "Arjun Mehta",
+    "text": "actually  easy to install and works perfectly with the smart remote.  absolute waste of money.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1027",
+    "product": "Space Heater",
+    "model": "Havells Calido PTC 2000W",
+    "rating": 3,
+    "date": "2026-01-09",
+    "reviewer": "Kabir Gupta",
+    "text": "actually  vibrates a lot and makes a squeaking sound at high speed.",
+    "category_tag": "Blower Grinding Noise"
+  },
+  {
+    "review_id": "REV-1148",
+    "product": "Ceiling Fan",
+    "model": "Havells Florence 1200mm",
+    "rating": 2,
+    "date": "2026-01-09",
+    "reviewer": "Tanvi Bhatia",
+    "text": "i usually don't write reviews but  shakes and wobbles. mounting rod is not stable.",
+    "category_tag": "Wobbling Regulator"
+  },
+  {
+    "review_id": "REV-1170",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-40",
+    "rating": 4,
+    "date": "2026-01-07",
+    "reviewer": "Pooja Trivedi",
+    "text": "digital AQI display is very accurate. notice a huge difference in my allergies. !!",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1123",
+    "product": "Ceiling Fan",
+    "model": "Havells Florence 1200mm",
+    "rating": 2,
+    "date": "2026-01-05",
+    "reviewer": "Rohan Das",
+    "text": "very disappointed!  makes an annoying clicking noice at speed 3 and 4. click click click all night.  \ud83d\udc4e",
+    "category_tag": "Clicking Sound"
+  },
+  {
+    "review_id": "REV-1186",
+    "product": "Air Purifier",
+    "model": "Havells Studio Meditate",
+    "rating": 1,
+    "date": "2026-01-03",
+    "reviewer": "Rahul Bose",
+    "text": "smell of chemicals for the first few days of use. very unpleasant. ...",
+    "category_tag": "Chemical Odor"
+  },
+  {
+    "review_id": "REV-1200",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-20",
+    "rating": 5,
+    "date": "2026-01-02",
+    "reviewer": "Vikram Malhotra",
+    "text": "essential for winters. clears Delhi pollution and smog effortlessly.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1034",
+    "product": "Space Heater",
+    "model": "Havells Solace 1500W Oil Filled",
+    "rating": 4,
+    "date": "2026-01-01",
+    "reviewer": "Kabir Gupta",
+    "text": "hey,  good build quality and silent operation. worth the money.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1017",
+    "product": "Space Heater",
+    "model": "Havells Calido PTC 2000W",
+    "rating": 4,
+    "date": "2025-12-31",
+    "reviewer": "Rahul Bose",
+    "text": "writing this after 3 weeks of usage.  compact and powerful. keeps my bedroom warm all night.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1087",
+    "product": "Ceiling Fan",
+    "model": "Havells Florence 1200mm",
+    "rating": 2,
+    "date": "2025-12-26",
+    "reviewer": "Kabir Gupta",
+    "text": "constant clicking noise when regulator is set to medium.  pros: looks good. cons: fails after some time.",
+    "category_tag": "Clicking Sound"
+  },
+  {
+    "review_id": "REV-1220",
+    "product": "Air Purifier",
+    "model": "Havells Studio Meditate",
+    "rating": 4,
+    "date": "2025-12-25",
+    "reviewer": "Tanvi Bhatia",
+    "text": "honestly,  great air purifier. filter is easy to change and value for money.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1157",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-20",
+    "rating": 5,
+    "date": "2025-12-23",
+    "reviewer": "Rahul Bose",
+    "text": "i usually don't write reviews but  great air purifier. filtr is easy to change and value for money.  hope customer care calls me.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1130",
+    "product": "Ceiling Fan",
+    "model": "Havells Stealth Air Premium",
+    "rating": 2,
+    "date": "2025-12-20",
+    "reviewer": "Pranav Kulkarni",
+    "text": "actually  motor makes a faint clicking or ticking sound when running.",
+    "category_tag": "Clicking Sound"
+  },
+  {
+    "review_id": "REV-1013",
+    "product": "Space Heater",
+    "model": "Havells Calido PTC 2000W",
+    "rating": 4,
+    "date": "2025-12-19",
+    "reviewer": "Aditya Patel",
+    "text": "havells is a good brand but  heats up the room very quickly. love the rotating base.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1075",
+    "product": "Space Heater",
+    "model": "Havells OFR 11 Wave",
+    "rating": 3,
+    "date": "2025-12-19",
+    "reviewer": "Rajesh Kapoor",
+    "text": "blower fan makes a loud grinding noise, cannot sleep with this on.",
+    "category_tag": "Blower Grinding Noise"
+  },
+  {
+    "review_id": "REV-1171",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-40",
+    "rating": 2,
+    "date": "2025-12-17",
+    "reviewer": "Devika Nair",
+    "text": "buying this was a mistake.  emits a chemical scent. filtr needs to be aired out first.",
+    "category_tag": "Chemical Odor"
+  },
+  {
+    "review_id": "REV-1096",
+    "product": "Ceiling Fan",
+    "model": "Havells Florence 1200mm",
+    "rating": 3,
+    "date": "2025-12-16",
+    "reviewer": "Siddharth Reddy",
+    "text": "ticking sound coming from the motor canopy. very distracting.",
+    "category_tag": "Clicking Sound"
+  },
+  {
+    "review_id": "REV-1204",
+    "product": "Air Purifier",
+    "model": "Havells Studio Meditate",
+    "rating": 4,
+    "date": "2025-12-16",
+    "reviewer": "Rajesh Kapoor",
+    "text": "very disappointed!  digital AQI display is very accurate. notice a huge difference in my allergies.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1221",
+    "product": "Air Purifier",
+    "model": "Havells Studio Meditate",
+    "rating": 5,
+    "date": "2025-12-15",
+    "reviewer": "Arjun Mehta",
+    "text": "clears smoke and cooking odors in minutes. sleep mode is dead silent.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1192",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-20",
+    "rating": 5,
+    "date": "2025-12-14",
+    "reviewer": "Ishaan Joshi",
+    "text": "great air purifier. filter is easy to change and value for money.  \ud83d\udc4d",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1097",
+    "product": "Ceiling Fan",
+    "model": "Havells Florence 1200mm",
+    "rating": 5,
+    "date": "2025-12-13",
+    "reviewer": "Siddharth Reddy",
+    "text": "havells is a good brand but  very stylish fan, looks premium in my living room.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1153",
+    "product": "Ceiling Fan",
+    "model": "Havells Efficiencia Neo energy saving",
+    "rating": 5,
+    "date": "2025-12-11",
+    "reviewer": "Aarav Sharma",
+    "text": "absolutely silent and high air delivery. energy saving is a plus. ...",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1073",
+    "product": "Space Heater",
+    "model": "Havells OFR 11 Wave",
+    "rating": 2,
+    "date": "2025-12-09",
+    "reviewer": "Neha Verma",
+    "text": "blower fan makes a loud grinding noise, cannot sleep with this on.",
+    "category_tag": "Blower Grinding Noise"
+  },
+  {
+    "review_id": "REV-1095",
+    "product": "Ceiling Fan",
+    "model": "Havells Stealth Air Premium",
+    "rating": 2,
+    "date": "2025-12-09",
+    "reviewer": "Pooja Trivedi",
+    "text": "writing this after 3 weeks of usage.  shakes a lot on full speed, makes creaking sounds from the ceiling.",
+    "category_tag": "Wobbling Regulator"
+  },
+  {
+    "review_id": "REV-1048",
+    "product": "Space Heater",
+    "model": "Havells Calido PTC 2000W",
+    "rating": 1,
+    "date": "2025-12-08",
+    "reviewer": "Meera Rao",
+    "text": "i usually don't write reviews but  smell of burning plastic and found the power switch was completely melted.  absolute waste of money.",
+    "category_tag": "Switch Melting"
+  },
+  {
+    "review_id": "REV-1125",
+    "product": "Ceiling Fan",
+    "model": "Havells Stealth Air Premium",
+    "rating": 3,
+    "date": "2025-12-07",
+    "reviewer": "Rajesh Kapoor",
+    "text": "honestly,  ticking sound coming from the motor canopy. very distracting.",
+    "category_tag": "Clicking Sound"
+  },
+  {
+    "review_id": "REV-1029",
+    "product": "Space Heater",
+    "model": "Havells OFR 11 Wave",
+    "rating": 2,
+    "date": "2025-12-06",
+    "reviewer": "Ishaan Joshi",
+    "text": "swich got extremely hot and then melted down. cheap quality toggle. !!",
+    "category_tag": "Switch Melting"
+  },
+  {
+    "review_id": "REV-1030",
+    "product": "Space Heater",
+    "model": "Havells Calido PTC 2000W",
+    "rating": 3,
+    "date": "2025-12-03",
+    "reviewer": "Aarav Sharma",
+    "text": "actually  heating works but there is a constant rattling sound from the blower.",
+    "category_tag": "Blower Grinding Noise"
+  },
+  {
+    "review_id": "REV-1000",
+    "product": "Space Heater",
+    "model": "Havells Calido PTC 2000W",
+    "rating": 2,
+    "date": "2025-12-02",
+    "reviewer": "Kabir Gupta",
+    "text": "hey,  swich button burnt and melted within a month. had to return it. ...",
+    "category_tag": "Switch Melting"
+  },
+  {
+    "review_id": "REV-1193",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-20",
+    "rating": 5,
+    "date": "2025-12-02",
+    "reviewer": "Ananya Sen",
+    "text": "essential for winters. clears Delhi pollution and smog effortlessly.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1201",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-40",
+    "rating": 1,
+    "date": "2025-12-01",
+    "reviewer": "Ananya Sen",
+    "text": "writing this after 3 weeks of usage.  strange odor from the new filter, smells like chemical glue.",
+    "category_tag": "Chemical Odor"
+  },
+  {
+    "review_id": "REV-1195",
+    "product": "Air Purifier",
+    "model": "Havells Studio Meditate",
+    "rating": 4,
+    "date": "2025-11-30",
+    "reviewer": "Meera Rao",
+    "text": "havells is a good brand but  essential for winters. clears Delhi pollution and smog effortlessly.  \ud83d\udc4d",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1003",
+    "product": "Space Heater",
+    "model": "Havells Calido PTC 2000W",
+    "rating": 3,
+    "date": "2025-11-27",
+    "reviewer": "Vikram Malhotra",
+    "text": "blower fan makes a loud grinding noise, cannot sleep with this on.",
+    "category_tag": "Blower Grinding Noise"
+  },
+  {
+    "review_id": "REV-1011",
+    "product": "Space Heater",
+    "model": "Havells OFR 11 Wave",
+    "rating": 5,
+    "date": "2025-11-26",
+    "reviewer": "Devika Nair",
+    "text": "heats up the room very quickly. love the rotating base.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1165",
+    "product": "Air Purifier",
+    "model": "Havells Studio Meditate",
+    "rating": 1,
+    "date": "2025-11-25",
+    "reviewer": "Vikram Malhotra",
+    "text": "havells is a good brand but  smell of chemicals for the first few days of use. very unpleasant. ...",
+    "category_tag": "Chemical Odor"
+  },
+  {
+    "review_id": "REV-1080",
+    "product": "Ceiling Fan",
+    "model": "Havells Efficiencia Neo energy saving",
+    "rating": 1,
+    "date": "2025-11-21",
+    "reviewer": "Ananya Sen",
+    "text": "shakes a lot on full speed, makes creaking sounds from the ceiling.",
+    "category_tag": "Wobbling Regulator"
+  },
+  {
+    "review_id": "REV-1070",
+    "product": "Space Heater",
+    "model": "Havells Calido PTC 2000W",
+    "rating": 2,
+    "date": "2025-11-19",
+    "reviewer": "Pooja Trivedi",
+    "text": "swich button burnt and melted within a month. had to return it.  pros: looks good. cons: fails after some time.",
+    "category_tag": "Switch Melting"
+  },
+  {
+    "review_id": "REV-1228",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-20",
+    "rating": 2,
+    "date": "2025-11-17",
+    "reviewer": "Pooja Trivedi",
+    "text": "purifier works but emits a plastic/ozone-like smell on turbo mode.",
+    "category_tag": "Chemical Odor"
+  },
+  {
+    "review_id": "REV-1018",
+    "product": "Space Heater",
+    "model": "Havells Solace 1500W Oil Filled",
+    "rating": 5,
+    "date": "2025-11-16",
+    "reviewer": "Tanvi Bhatia",
+    "text": "hey,  good build quality and silent operation. worth the money.  pros: looks good. cons: fails after some time.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1222",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-20",
+    "rating": 1,
+    "date": "2025-11-16",
+    "reviewer": "Ishaan Joshi",
+    "text": "hey,  purifier works but emits a plastic/ozone-like smell on turbo mode.",
+    "category_tag": "Chemical Odor"
+  },
+  {
+    "review_id": "REV-1225",
+    "product": "Air Purifier",
+    "model": "Havells Studio Meditate",
+    "rating": 3,
+    "date": "2025-11-14",
+    "reviewer": "Pranav Kulkarni",
+    "text": "smell of chemicals for the first few days of use. very unpleasant.",
+    "category_tag": "Chemical Odor"
+  },
+  {
+    "review_id": "REV-1043",
+    "product": "Space Heater",
+    "model": "Havells OFR 11 Wave",
+    "rating": 1,
+    "date": "2025-11-12",
+    "reviewer": "Neha Verma",
+    "text": "buying this was a mistake.  the switch melted after 2 hours of use, very dangerous!  pros: looks good. cons: fails after some time.",
+    "category_tag": "Switch Melting"
+  },
+  {
+    "review_id": "REV-1110",
+    "product": "Ceiling Fan",
+    "model": "Havells Efficiencia Neo energy saving",
+    "rating": 2,
+    "date": "2025-11-11",
+    "reviewer": "Arjun Mehta",
+    "text": "perfect fan but has a rhythmic clicking sound that is frustrating.",
+    "category_tag": "Clicking Sound"
+  },
+  {
+    "review_id": "REV-1077",
+    "product": "Space Heater",
+    "model": "Havells OFR 11 Wave",
+    "rating": 1,
+    "date": "2025-11-09",
+    "reviewer": "Rajesh Kapoor",
+    "text": "swich got extremely hot and then melted down. cheap quality toggle.",
+    "category_tag": "Switch Melting"
+  },
+  {
+    "review_id": "REV-1098",
+    "product": "Ceiling Fan",
+    "model": "Havells Stealth Air Premium",
+    "rating": 5,
+    "date": "2025-11-09",
+    "reviewer": "Rohan Das",
+    "text": "buying this was a mistake.  very quiet motor and modern aesthetic.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1215",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-40",
+    "rating": 2,
+    "date": "2025-11-09",
+    "reviewer": "Vikram Malhotra",
+    "text": "honestly,  changed the filter but the red replacement light won't reset or turn off.",
+    "category_tag": "Filter Light Bug"
+  },
+  {
+    "review_id": "REV-1107",
+    "product": "Ceiling Fan",
+    "model": "Havells Efficiencia Neo energy saving",
+    "rating": 4,
+    "date": "2025-11-03",
+    "reviewer": "Vikram Malhotra",
+    "text": "easy to install and works perfectly with the smart remote.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1126",
+    "product": "Ceiling Fan",
+    "model": "Havells Florence 1200mm",
+    "rating": 3,
+    "date": "2025-10-31",
+    "reviewer": "Meera Rao",
+    "text": "hey,  constant clicking noise when regulator is set to medium.  buy something else.",
+    "category_tag": "Clicking Sound"
+  },
+  {
+    "review_id": "REV-1224",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-40",
+    "rating": 4,
+    "date": "2025-10-31",
+    "reviewer": "Ananya Sen",
+    "text": "great air purifier. filter is easy to change and value for money.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1142",
+    "product": "Ceiling Fan",
+    "model": "Havells Florence 1200mm",
+    "rating": 4,
+    "date": "2025-10-21",
+    "reviewer": "Arjun Mehta",
+    "text": "honestly,  very stylish fan, looks premium in my living room.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1202",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-40",
+    "rating": 5,
+    "date": "2025-10-21",
+    "reviewer": "Divya Pillai",
+    "text": "great air purifier. filtr is easy to change and value for money.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1179",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-40",
+    "rating": 5,
+    "date": "2025-10-20",
+    "reviewer": "Sneha Iyer",
+    "text": "great air purifier. filter is easy to change and value for money.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1081",
+    "product": "Ceiling Fan",
+    "model": "Havells Stealth Air Premium",
+    "rating": 1,
+    "date": "2025-10-19",
+    "reviewer": "Rohan Das",
+    "text": "wobbling issue right out of the box. installer tried to balance it but failed.  \ud83d\udc4d",
+    "category_tag": "Wobbling Regulator"
+  },
+  {
+    "review_id": "REV-1159",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-20",
+    "rating": 3,
+    "date": "2025-10-18",
+    "reviewer": "Sneha Iyer",
+    "text": "i usually don't write reviews but  blows out a weird chemical plastic smell. makes my eyes water.  buy something else.",
+    "category_tag": "Chemical Odor"
+  },
+  {
+    "review_id": "REV-1203",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-40",
+    "rating": 5,
+    "date": "2025-10-17",
+    "reviewer": "Sneha Iyer",
+    "text": "buying this was a mistake.  clears smoke and cooking odors in minutes. sleep mode is dead silent.  pros: looks good. cons: fails after some time.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1037",
+    "product": "Space Heater",
+    "model": "Havells OFR 11 Wave",
+    "rating": 5,
+    "date": "2025-10-14",
+    "reviewer": "Meera Rao",
+    "text": "havells is a good brand but  good build quality and silent operation. worth the money.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1132",
+    "product": "Ceiling Fan",
+    "model": "Havells Stealth Air Premium",
+    "rating": 5,
+    "date": "2025-10-13",
+    "reviewer": "Sneha Iyer",
+    "text": "havells is a good brand but  very quiet motor and modern aesthetic.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1219",
+    "product": "Air Purifier",
+    "model": "Havells Studio Meditate",
+    "rating": 5,
+    "date": "2025-10-12",
+    "reviewer": "Tanvi Bhatia",
+    "text": "clears smoke and cooking odors in minutes. sleep mode is dead silent.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1229",
+    "product": "Air Purifier",
+    "model": "Havells Studio Meditate",
+    "rating": 3,
+    "date": "2025-10-09",
+    "reviewer": "Rohan Das",
+    "text": "i usually don't write reviews but  strange odor from the new filter, smells like chemical glue.",
+    "category_tag": "Chemical Odor"
+  },
+  {
+    "review_id": "REV-1021",
+    "product": "Space Heater",
+    "model": "Havells Solace 1500W Oil Filled",
+    "rating": 4,
+    "date": "2025-10-08",
+    "reviewer": "Sneha Iyer",
+    "text": "Super happy!  heats up the room very quickly. love the rotating base.  buy something else.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1006",
+    "product": "Space Heater",
+    "model": "Havells Solace 1500W Oil Filled",
+    "rating": 5,
+    "date": "2025-10-06",
+    "reviewer": "Siddharth Reddy",
+    "text": "i usually don't write reviews but  compact and powerful. keeps my bedroom warm all night.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1079",
+    "product": "Space Heater",
+    "model": "Havells Solace 1500W Oil Filled",
+    "rating": 5,
+    "date": "2025-10-05",
+    "reviewer": "Tanvi Bhatia",
+    "text": "great safety features, it shuts off when tipped over.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1002",
+    "product": "Space Heater",
+    "model": "Havells OFR 11 Wave",
+    "rating": 2,
+    "date": "2025-10-04",
+    "reviewer": "Tanvi Bhatia",
+    "text": "actually  fan inside rattles and clicks. very annoying background noise. ...",
+    "category_tag": "Blower Grinding Noise"
+  },
+  {
+    "review_id": "REV-1106",
+    "product": "Ceiling Fan",
+    "model": "Havells Efficiencia Neo energy saving",
+    "rating": 5,
+    "date": "2025-10-02",
+    "reviewer": "Ananya Sen",
+    "text": "very quiet motor and modern aesthetic.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1117",
+    "product": "Ceiling Fan",
+    "model": "Havells Stealth Air Premium",
+    "rating": 2,
+    "date": "2025-10-01",
+    "reviewer": "Sneha Iyer",
+    "text": "hey,  constant clicking noise when regulator is set to medium.",
+    "category_tag": "Clicking Sound"
+  },
+  {
+    "review_id": "REV-1173",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-40",
+    "rating": 5,
+    "date": "2025-10-01",
+    "reviewer": "Divya Pillai",
+    "text": "essential for winters. clears Delhi pollution and smog effortlessly.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1185",
+    "product": "Air Purifier",
+    "model": "Havells Studio Meditate",
+    "rating": 3,
+    "date": "2025-09-29",
+    "reviewer": "Rahul Bose",
+    "text": "havells is a good brand but  filter light stays solid red even after putting in a brand new genuine Havells filter.",
+    "category_tag": "Filter Light Bug"
+  },
+  {
+    "review_id": "REV-1093",
+    "product": "Ceiling Fan",
+    "model": "Havells Florence 1200mm",
+    "rating": 2,
+    "date": "2025-09-27",
+    "reviewer": "Rahul Bose",
+    "text": "actually  ticking sound coming from the motor canopy. very distracting.",
+    "category_tag": "Clicking Sound"
+  },
+  {
+    "review_id": "REV-1194",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-20",
+    "rating": 3,
+    "date": "2025-09-27",
+    "reviewer": "Aditya Patel",
+    "text": "hey,  red light for filtr change is stuck. reset instructions in manual don't work.",
+    "category_tag": "Filter Light Bug"
+  },
+  {
+    "review_id": "REV-1227",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-40",
+    "rating": 5,
+    "date": "2025-09-27",
+    "reviewer": "Meera Rao",
+    "text": "essential for winters. clears Delhi pollution and smog effortlessly.  hope customer care calls me.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1184",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-40",
+    "rating": 2,
+    "date": "2025-09-26",
+    "reviewer": "Divya Pillai",
+    "text": "changed the filter but the red replacement light won't reset or turn off.  not happy at all.",
+    "category_tag": "Filter Light Bug"
+  },
+  {
+    "review_id": "REV-1099",
+    "product": "Ceiling Fan",
+    "model": "Havells Stealth Air Premium",
+    "rating": 5,
+    "date": "2025-09-23",
+    "reviewer": "Ananya Sen",
+    "text": "very stylish fan, looks premium in my living room.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1146",
+    "product": "Ceiling Fan",
+    "model": "Havells Efficiencia Neo energy saving",
+    "rating": 4,
+    "date": "2025-09-23",
+    "reviewer": "Aditya Patel",
+    "text": "easy to install and works perfectly with the smart remote.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1190",
+    "product": "Air Purifier",
+    "model": "Havells Studio Meditate",
+    "rating": 3,
+    "date": "2025-09-23",
+    "reviewer": "Ishaan Joshi",
+    "text": "solid red filter indicator light won't turn off. air flow is fine though.  absolute waste of money.",
+    "category_tag": "Filter Light Bug"
+  },
+  {
+    "review_id": "REV-1046",
+    "product": "Space Heater",
+    "model": "Havells Solace 1500W Oil Filled",
+    "rating": 3,
+    "date": "2025-09-21",
+    "reviewer": "Rahul Bose",
+    "text": "noisy blower! sounds like something is loose inside.",
+    "category_tag": "Blower Grinding Noise"
+  },
+  {
+    "review_id": "REV-1100",
+    "product": "Ceiling Fan",
+    "model": "Havells Florence 1200mm",
+    "rating": 2,
+    "date": "2025-09-20",
+    "reviewer": "Neha Verma",
+    "text": "Super happy!  ticking sound coming from the motor canopy. very distracting.",
+    "category_tag": "Clicking Sound"
+  },
+  {
+    "review_id": "REV-1052",
+    "product": "Space Heater",
+    "model": "Havells OFR 11 Wave",
+    "rating": 4,
+    "date": "2025-09-18",
+    "reviewer": "Pooja Trivedi",
+    "text": "Super happy!  excellent heating. remote control is very handy.  buy something else.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1067",
+    "product": "Space Heater",
+    "model": "Havells Solace 1500W Oil Filled",
+    "rating": 5,
+    "date": "2025-09-17",
+    "reviewer": "Aditya Patel",
+    "text": "excellent heating. remote control is very handy.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1065",
+    "product": "Space Heater",
+    "model": "Havells OFR 11 Wave",
+    "rating": 1,
+    "date": "2025-09-14",
+    "reviewer": "Ishaan Joshi",
+    "text": "i usually don't write reviews but  smell of burning plastic and found the power swich was completely melted.",
+    "category_tag": "Switch Melting"
+  },
+  {
+    "review_id": "REV-1083",
+    "product": "Ceiling Fan",
+    "model": "Havells Efficiencia Neo energy saving",
+    "rating": 3,
+    "date": "2025-09-11",
+    "reviewer": "Ananya Sen",
+    "text": "constant clicking noice when regulator is set to medium.",
+    "category_tag": "Clicking Sound"
+  },
+  {
+    "review_id": "REV-1120",
+    "product": "Ceiling Fan",
+    "model": "Havells Efficiencia Neo energy saving",
+    "rating": 4,
+    "date": "2025-09-11",
+    "reviewer": "Rajesh Kapoor",
+    "text": "Super happy!  very quiet motor and modern aesthetic.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1111",
+    "product": "Ceiling Fan",
+    "model": "Havells Stealth Air Premium",
+    "rating": 5,
+    "date": "2025-09-09",
+    "reviewer": "Aarav Sharma",
+    "text": "very disappointed!  absolutely silent and high air delivery. energy saving is a plus.  highly recommended.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1045",
+    "product": "Space Heater",
+    "model": "Havells Solace 1500W Oil Filled",
+    "rating": 4,
+    "date": "2025-09-07",
+    "reviewer": "Kabir Gupta",
+    "text": "i usually don't write reviews but  good build quality and silent operation. worth the money.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1196",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-20",
+    "rating": 2,
+    "date": "2025-09-04",
+    "reviewer": "Pranav Kulkarni",
+    "text": "filter light stays solid red even after putting in a brand new genuine Havells filter.",
+    "category_tag": "Filter Light Bug"
+  },
+  {
+    "review_id": "REV-1092",
+    "product": "Ceiling Fan",
+    "model": "Havells Stealth Air Premium",
+    "rating": 3,
+    "date": "2025-09-03",
+    "reviewer": "Ananya Sen",
+    "text": "honestly,  makes an annoying clicking noice at speed 3 and 4. click click click all night.",
+    "category_tag": "Clicking Sound"
+  },
+  {
+    "review_id": "REV-1149",
+    "product": "Ceiling Fan",
+    "model": "Havells Stealth Air Premium",
+    "rating": 3,
+    "date": "2025-09-03",
+    "reviewer": "Pranav Kulkarni",
+    "text": "makes an annoying clicking noise at speed 3 and 4. click click click all night.",
+    "category_tag": "Clicking Sound"
+  },
+  {
+    "review_id": "REV-1178",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-40",
+    "rating": 2,
+    "date": "2025-09-02",
+    "reviewer": "Neha Verma",
+    "text": "filter light stays solid red even after putting in a brand new genuine Havells filter.",
+    "category_tag": "Filter Light Bug"
+  },
+  {
+    "review_id": "REV-1135",
+    "product": "Ceiling Fan",
+    "model": "Havells Stealth Air Premium",
+    "rating": 4,
+    "date": "2025-08-30",
+    "reviewer": "Divya Pillai",
+    "text": "breeze is powerful. Havells quality shines through.  \ud83d\udc4e",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1147",
+    "product": "Ceiling Fan",
+    "model": "Havells Florence 1200mm",
+    "rating": 2,
+    "date": "2025-08-26",
+    "reviewer": "Meera Rao",
+    "text": "i usually don't write reviews but  constant clicking noice when regulator is set to medium.",
+    "category_tag": "Clicking Sound"
+  },
+  {
+    "review_id": "REV-1207",
+    "product": "Air Purifier",
+    "model": "Havells Studio Meditate",
+    "rating": 4,
+    "date": "2025-08-25",
+    "reviewer": "Vikram Malhotra",
+    "text": "sleek design, looks like a premium speaker. auto mode works great.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1031",
+    "product": "Space Heater",
+    "model": "Havells OFR 11 Wave",
+    "rating": 2,
+    "date": "2025-08-22",
+    "reviewer": "Arjun Mehta",
+    "text": "vibrates a lot and makes a squeaking sound at high speed. !!",
+    "category_tag": "Blower Grinding Noise"
+  },
+  {
+    "review_id": "REV-1026",
+    "product": "Space Heater",
+    "model": "Havells Calido PTC 2000W",
+    "rating": 4,
+    "date": "2025-08-21",
+    "reviewer": "Vikram Malhotra",
+    "text": "excellent heating. remote control is very handy.  hope customer care calls me.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1114",
+    "product": "Ceiling Fan",
+    "model": "Havells Florence 1200mm",
+    "rating": 4,
+    "date": "2025-08-21",
+    "reviewer": "Pranav Kulkarni",
+    "text": "very stylish fan, looks premium in my living room.  \ud83d\udc4e",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1036",
+    "product": "Space Heater",
+    "model": "Havells Solace 1500W Oil Filled",
+    "rating": 3,
+    "date": "2025-08-19",
+    "reviewer": "Rohan Das",
+    "text": "vibrates a lot and makes a squeaking sound at high speed.",
+    "category_tag": "Blower Grinding Noise"
+  },
+  {
+    "review_id": "REV-1085",
+    "product": "Ceiling Fan",
+    "model": "Havells Efficiencia Neo energy saving",
+    "rating": 4,
+    "date": "2025-08-19",
+    "reviewer": "Tanvi Bhatia",
+    "text": "i usually don't write reviews but  easy to install and works perfectly with the smart remote.  highly recommended.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1016",
+    "product": "Space Heater",
+    "model": "Havells Solace 1500W Oil Filled",
+    "rating": 1,
+    "date": "2025-08-16",
+    "reviewer": "Aarav Sharma",
+    "text": "swich button burnt and melted within a month. had to return it. !!",
+    "category_tag": "Switch Melting"
+  },
+  {
+    "review_id": "REV-1118",
+    "product": "Ceiling Fan",
+    "model": "Havells Stealth Air Premium",
+    "rating": 3,
+    "date": "2025-08-14",
+    "reviewer": "Pooja Trivedi",
+    "text": "constant clicking noise when regulator is set to medium.",
+    "category_tag": "Clicking Sound"
+  },
+  {
+    "review_id": "REV-1176",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-40",
+    "rating": 2,
+    "date": "2025-08-14",
+    "reviewer": "Vikram Malhotra",
+    "text": "writing this after 3 weeks of usage.  reset button for the filter light does not work. sensor issue.  not happy at all.",
+    "category_tag": "Filter Light Bug"
+  },
+  {
+    "review_id": "REV-1119",
+    "product": "Ceiling Fan",
+    "model": "Havells Efficiencia Neo energy saving",
+    "rating": 3,
+    "date": "2025-08-10",
+    "reviewer": "Divya Pillai",
+    "text": "hey,  ticking sound coming from the motor canopy. very distracting. ...",
+    "category_tag": "Clicking Sound"
+  },
+  {
+    "review_id": "REV-1053",
+    "product": "Space Heater",
+    "model": "Havells Solace 1500W Oil Filled",
+    "rating": 3,
+    "date": "2025-08-09",
+    "reviewer": "Siddharth Reddy",
+    "text": "writing this after 3 weeks of usage.  fan inside rattles and clicks. very annoying background noice.  buy something else.",
+    "category_tag": "Blower Grinding Noise"
+  },
+  {
+    "review_id": "REV-1009",
+    "product": "Space Heater",
+    "model": "Havells Calido PTC 2000W",
+    "rating": 2,
+    "date": "2025-08-08",
+    "reviewer": "Arjun Mehta",
+    "text": "vibrates a lot and makes a squeaking sound at high speed.  \ud83d\udc4e",
+    "category_tag": "Blower Grinding Noise"
+  },
+  {
+    "review_id": "REV-1158",
+    "product": "Air Purifier",
+    "model": "Havells Studio Meditate",
+    "rating": 5,
+    "date": "2025-08-08",
+    "reviewer": "Pranav Kulkarni",
+    "text": "very disappointed!  great air purifier. filter is easy to change and value for money.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1211",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-20",
+    "rating": 4,
+    "date": "2025-08-07",
+    "reviewer": "Rohan Das",
+    "text": "essential for winters. clears Delhi pollution and smog effortlessly.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1217",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-20",
+    "rating": 3,
+    "date": "2025-08-06",
+    "reviewer": "Vikram Malhotra",
+    "text": "buying this was a mistake.  filter light stays solid red even after putting in a brand new genuine Havells filter.  \ud83d\udc4e",
+    "category_tag": "Filter Light Bug"
+  },
+  {
+    "review_id": "REV-1032",
+    "product": "Space Heater",
+    "model": "Havells Solace 1500W Oil Filled",
+    "rating": 5,
+    "date": "2025-08-04",
+    "reviewer": "Ishaan Joshi",
+    "text": "heats up the room very quickly. love the rotating base.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1137",
+    "product": "Ceiling Fan",
+    "model": "Havells Florence 1200mm",
+    "rating": 4,
+    "date": "2025-08-04",
+    "reviewer": "Vikram Malhotra",
+    "text": "very quiet motor and modern aesthetic.  highly recommended.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1105",
+    "product": "Ceiling Fan",
+    "model": "Havells Efficiencia Neo energy saving",
+    "rating": 3,
+    "date": "2025-08-03",
+    "reviewer": "Sneha Iyer",
+    "text": "buying this was a mistake.  constant clicking noise when regulator is set to medium.  \ud83d\udc4d",
+    "category_tag": "Clicking Sound"
+  },
+  {
+    "review_id": "REV-1007",
+    "product": "Space Heater",
+    "model": "Havells Solace 1500W Oil Filled",
+    "rating": 3,
+    "date": "2025-07-31",
+    "reviewer": "Siddharth Reddy",
+    "text": "buying this was a mistake.  heating works but there is a constant rattling sound from the blower.  pros: looks good. cons: fails after some time.",
+    "category_tag": "Blower Grinding Noise"
+  },
+  {
+    "review_id": "REV-1212",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-20",
+    "rating": 5,
+    "date": "2025-07-31",
+    "reviewer": "Tanvi Bhatia",
+    "text": "actually  great air purifier. filter is easy to change and value for money.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1121",
+    "product": "Ceiling Fan",
+    "model": "Havells Florence 1200mm",
+    "rating": 5,
+    "date": "2025-07-29",
+    "reviewer": "Meera Rao",
+    "text": "easy to install and works perfectly with the smart remote.  absolute waste of money.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1174",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-40",
+    "rating": 5,
+    "date": "2025-07-29",
+    "reviewer": "Aditya Patel",
+    "text": "essential for winters. clears Delhi pollution and smog effortlessly.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1001",
+    "product": "Space Heater",
+    "model": "Havells OFR 11 Wave",
+    "rating": 3,
+    "date": "2025-07-28",
+    "reviewer": "Ishaan Joshi",
+    "text": "heating works but there is a constant rattling sound from the blower.",
+    "category_tag": "Blower Grinding Noise"
+  },
+  {
+    "review_id": "REV-1055",
+    "product": "Space Heater",
+    "model": "Havells OFR 11 Wave",
+    "rating": 1,
+    "date": "2025-07-25",
+    "reviewer": "Arjun Mehta",
+    "text": "writing this after 3 weeks of usage.  switch button burnt and melted within a month. had to return it.  highly recommended.",
+    "category_tag": "Switch Melting"
+  },
+  {
+    "review_id": "REV-1109",
+    "product": "Ceiling Fan",
+    "model": "Havells Florence 1200mm",
+    "rating": 4,
+    "date": "2025-07-25",
+    "reviewer": "Pranav Kulkarni",
+    "text": "actually  very quiet motor and modern aesthetic.  \ud83d\udc4d",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1054",
+    "product": "Space Heater",
+    "model": "Havells OFR 11 Wave",
+    "rating": 1,
+    "date": "2025-07-24",
+    "reviewer": "Pooja Trivedi",
+    "text": "very disappointed!  the switch melted after 2 hours of use, very dangerous!",
+    "category_tag": "Switch Melting"
+  },
+  {
+    "review_id": "REV-1155",
+    "product": "Ceiling Fan",
+    "model": "Havells Efficiencia Neo energy saving",
+    "rating": 1,
+    "date": "2025-07-23",
+    "reviewer": "Amit Singh",
+    "text": "hey,  shakes and wobbles. mounting rod is not stable.  not happy at all.",
+    "category_tag": "Wobbling Regulator"
+  },
+  {
+    "review_id": "REV-1216",
+    "product": "Air Purifier",
+    "model": "Havells Freshia AP-40",
+    "rating": 5,
+    "date": "2025-07-23",
+    "reviewer": "Ishaan Joshi",
+    "text": "havells is a good brand but  clears smoke and cooking odors in minutes. sleep mode is dead silent.",
+    "category_tag": "Praise"
+  },
+  {
+    "review_id": "REV-1028",
+    "product": "Space Heater",
+    "model": "Havells OFR 11 Wave",
+    "rating": 5,
+    "date": "2025-07-19",
+    "reviewer": "Pooja Trivedi",
+    "text": "hey,  compact and powerful. keeps my bedroom warm all night. ...",
+    "category_tag": "Praise"
+  }
+]

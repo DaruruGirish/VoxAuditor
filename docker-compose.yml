@@ -1,0 +1,95 @@
+version: '3.8'
+
+services:
+  # ── API Gateway ────────────────────────────────────────────────────────────
+  gateway:
+    build:
+      context: .
+      dockerfile: backend.Dockerfile
+    container_name: vox-gateway
+    ports:
+      - "8081:8000"
+    environment:
+      # Pass Docker service names as URLs to the gateway
+      - REVIEW_STORE_URL=http://review-store:8001
+      - VECTOR_SEARCH_URL=http://vector-search:8002
+      - ANALYTICS_URL=http://analytics:8003
+      - QA_AGENT_URL=http://qa-agent:8004
+    command: ["gunicorn", "-k", "uvicorn.workers.UvicornWorker", "-w", "2", "-b", "0.0.0.0:8000", "--chdir", "services/gateway", "main:app"]
+    depends_on:
+      - review-store
+      - vector-search
+      - analytics
+      - qa-agent
+    networks:
+      - vox-net
+
+  # ── Microservices ──────────────────────────────────────────────────────────
+  review-store:
+    build:
+      context: .
+      dockerfile: backend.Dockerfile
+    container_name: vox-review-store
+    command: ["gunicorn", "-k", "uvicorn.workers.UvicornWorker", "-w", "2", "-b", "0.0.0.0:8001", "--chdir", "services/review_store", "main:app"]
+    volumes:
+      - shared-data:/app/shared
+    networks:
+      - vox-net
+
+  vector-search:
+    build:
+      context: .
+      dockerfile: backend.Dockerfile
+    container_name: vox-vector-search
+    # Vector search loads a PyTorch model into memory, 1 worker is safer for RAM limits
+    command: ["gunicorn", "-k", "uvicorn.workers.UvicornWorker", "-w", "1", "-b", "0.0.0.0:8002", "--timeout", "120", "--chdir", "services/vector_search", "main:app"]
+    volumes:
+      - shared-data:/app/shared
+    networks:
+      - vox-net
+
+  analytics:
+    build:
+      context: .
+      dockerfile: backend.Dockerfile
+    container_name: vox-analytics
+    command: ["gunicorn", "-k", "uvicorn.workers.UvicornWorker", "-w", "2", "-b", "0.0.0.0:8003", "--chdir", "services/analytics", "main:app"]
+    volumes:
+      - shared-data:/app/shared
+    networks:
+      - vox-net
+
+  qa-agent:
+    build:
+      context: .
+      dockerfile: backend.Dockerfile
+    container_name: vox-qa-agent
+    environment:
+      - VECTOR_SEARCH_URL=http://vector-search:8002
+    command: ["gunicorn", "-k", "uvicorn.workers.UvicornWorker", "-w", "2", "-b", "0.0.0.0:8004", "--timeout", "90", "--chdir", "services/qa_agent", "main:app"]
+    depends_on:
+      - vector-search
+    networks:
+      - vox-net
+
+  # ── Frontend ───────────────────────────────────────────────────────────────
+  frontend:
+    build:
+      context: .
+      dockerfile: frontend.Dockerfile
+    container_name: vox-frontend
+    ports:
+      - "8080:80"  # Expose frontend on port 8080
+    depends_on:
+      - gateway
+    networks:
+      - vox-net
+
+# ── Global Networking & Storage ──────────────────────────────────────────────
+networks:
+  vox-net:
+    driver: bridge
+
+volumes:
+  # Persistent volume for SQLite and ChromaDB
+  shared-data:
